@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	Git create metadata of the files in the repository, in order to save the history of the files, if it does not, git do not advertise the existence of that directorie and do not create a metadata.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	"Staging area" offers a pre area where we can select the files that we can fit in a commit, unlike a working directory, staging area is not a physical area.
+	Staging area offers us more flexibility at the time of making a commit, thanks to stagin area, we can configure our commits.
